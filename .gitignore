@@ -1,0 +1,7 @@
+# JetBrains
+*.idea
+
+*__pycache__
+
+run/
+logs/
